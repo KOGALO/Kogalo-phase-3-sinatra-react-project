@@ -1,3 +1,5 @@
+# This is the link to my Front end repo. 
+Link: git@github.com:KOGALO/KOGALO-phase-3-project-PATA-HAO-.git
 # Phase 3 Project Guidelines
 
 ## Learning Goals
