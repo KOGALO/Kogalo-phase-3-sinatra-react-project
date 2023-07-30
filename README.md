@@ -1,5 +1,17 @@
-# This is the link to my Front end repo. 
-Link: git@github.com:KOGALO/KOGALO-phase-3-project-PATA-HAO-.git
+#                       PATA HAO 
+[Frontend Github Link](git@github.com:KOGALO/KOGALO-phase-3-project-PATA-HAO-.git)
+
+# Project Description
+- This project aims at creating a website where individuals will be able to search and book houses for rental or purchase.
+
+# Project Problem Solutions
+- Finding the perfect house or property to rent or buy is a hed ache to many people. PATA HAO provides the perfect solution to this problem. 
+
+# Minimum Viable Product (MVP)
+- A homepage which enables users create account by signing up and loging in to the webite.
+- Landing page should allow users to view all available houses and properties for rental or purchase
+- They will also search using location, cost and and type of house then contact the landlords, agents and sellers of these properties. 
+
 # Phase 3 Project Guidelines
 
 ## Learning Goals
@@ -74,7 +86,7 @@ right corner of the repo page.
 The `app/controllers/application_controller.rb` file has an example GET route
 handler. Replace this route with routes for your project.
 
-You can start your server with:
+You can start your server with: 
 
 ```console
 $ bundle exec rake server
