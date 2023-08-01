@@ -1,4 +1,0 @@
-class Landlord < ActiveRecord::Base
-  has_many :houses_to_rent
-  attr_accessor :name, :email, :phone_number
-end
